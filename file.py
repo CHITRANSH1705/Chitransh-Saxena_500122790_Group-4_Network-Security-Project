@@ -1,4 +1,3 @@
-"""
 =============================================================
   Real-Time Malicious Network Behaviour Detector
   Tools  : Python 3, Scapy
