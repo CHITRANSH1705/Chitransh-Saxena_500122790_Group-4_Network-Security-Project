@@ -2,6 +2,7 @@
 
 A Python-based network security tool that captures live packets using **Scapy** and automatically detects malicious behaviour such as **port scanning** and **high-frequency request flooding** — with real-time console alerts and a persistent log file.
 
+Screen Recording link - https://drive.google.com/file/d/1VIH7u8UdLYyNdV7INCxxKMwRaJCqusKK/view?usp=sharing 
 ---
 
 ## 📌 Problem Statement
