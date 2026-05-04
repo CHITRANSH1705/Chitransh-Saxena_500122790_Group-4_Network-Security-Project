@@ -1,17 +1,17 @@
-=============================================================
-  Real-Time Malicious Network Behaviour Detector
-  Tools  : Python 3, Scapy
-  Detects: Port Scan | High-Freq Flood | SYN Flood |
-           UDP Flood | ICMP Flood | Brute-Force (SSH/FTP/RDP)
-  Output : Console alerts + suspicious_ips.log
-=============================================================
-  HOW TO RUN
-    pip install scapy
-    python network_monitor.py                      # live (run as Admin)
-    python network_monitor.py --demo               # fast offline demo
-    python network_monitor.py --demo --packets 800 # bigger demo
-=============================================================
-"""
+# =============================================================
+#   Real-Time Malicious Network Behaviour Detector
+#   Tools  : Python 3, Scapy
+#   Detects: Port Scan | High-Freq Flood | SYN Flood |
+#            UDP Flood | ICMP Flood | Brute-Force (SSH/FTP/RDP)
+#   Output : Console alerts + suspicious_ips.log
+# =============================================================
+#   HOW TO RUN
+#     pip install scapy
+#     python network_monitor.py                      # live (run as Admin)
+#     python network_monitor.py --demo               # fast offline demo
+#     python network_monitor.py --demo --packets 800 # bigger demo
+# =============================================================
+# """
 
 import argparse
 import sys
