@@ -1,4 +1,4 @@
-# 🛡️ Real-Time Malicious Network Behaviour Detector
+# Real-Time Malicious Network Behaviour Detector
 
 A Python-based network security tool that captures live packets using **Scapy** and automatically detects malicious behaviour such as **port scanning** and **high-frequency request flooding** — with real-time console alerts and a persistent log file.
 
