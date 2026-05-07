@@ -5,7 +5,7 @@ A Python-based network security tool that captures live packets using **Scapy** 
 Screen Recording link - https://drive.google.com/file/d/1VIH7u8UdLYyNdV7INCxxKMwRaJCqusKK/view?usp=sharing 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Detect malicious network behaviour in real-time by capturing and analysing live network packets, identifying suspicious activity patterns, and triggering immediate alerts.
 
