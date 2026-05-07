@@ -22,7 +22,7 @@ Detect malicious network behaviour in real-time by capturing and analysing live 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 NetworkMonitor/
