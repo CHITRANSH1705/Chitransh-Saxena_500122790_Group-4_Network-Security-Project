@@ -32,7 +32,6 @@ try:
 except Exception as exc:
     SCAPY_OK = False
     SCAPY_ERR = str(exc)
-
 # ══════════════════════════════════════════════════════════
 #  CONFIGURATION
 # ══════════════════════════════════════════════════════════
