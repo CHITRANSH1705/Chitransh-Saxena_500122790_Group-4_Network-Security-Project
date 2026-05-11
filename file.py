@@ -21,7 +21,6 @@ from collections import defaultdict
 from datetime import datetime
 import threading
 import time
-
 # ── Scapy import guard ──────────────────────────────────────
 os.environ.setdefault("SCAPY_IPV6_ENABLED", "0")
 try:
