@@ -12,7 +12,6 @@
 #     python network_monitor.py --demo --packets 800 # bigger demo
 # =============================================================
 # """
-
 import argparse
 import sys
 import os
