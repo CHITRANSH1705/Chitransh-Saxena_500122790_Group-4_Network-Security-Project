@@ -9,7 +9,6 @@ Screen Recording link - https://drive.google.com/file/d/1VIH7u8UdLYyNdV7INCxxKMw
 
 Detect malicious network behaviour in real-time by capturing and analysing live network packets, identifying suspicious activity patterns, and triggering immediate alerts.
 
-
 ##  Tools & Technologies
 
 | Tool | Purpose |
