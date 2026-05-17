@@ -3,7 +3,7 @@
 #   Tools  : Python 3, Scapy
 #   Detects: Port Scan | High-Freq Flood | SYN Flood |
 #            UDP Flood | ICMP Flood | Brute-Force (SSH/FTP/RDP)
-#   Output : Console alerts + suspicious_ips.lo
+#   Output : Console alerts + suspicious_ips.l
 # =============================================================
 #   HOW TO RUN
 #     pip install scapy
